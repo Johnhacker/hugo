@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://gaoqian.work</id>
+    <id>https://hugo-umber-six.vercel.app</id>
     <title>gaoqian &amp; work</title>
-    <updated>2021-01-13T11:34:38.952Z</updated>
+    <updated>2021-01-13T11:41:26.949Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://gaoqian.work"/>
-    <link rel="self" href="https://gaoqian.work/atom.xml"/>
+    <link rel="alternate" href="https://hugo-umber-six.vercel.app"/>
+    <link rel="self" href="https://hugo-umber-six.vercel.app/atom.xml"/>
     <subtitle>我只想搞钱</subtitle>
-    <logo>https://gaoqian.work/images/avatar.png</logo>
-    <icon>https://gaoqian.work/favicon.ico</icon>
+    <logo>https://hugo-umber-six.vercel.app/images/avatar.png</logo>
+    <icon>https://hugo-umber-six.vercel.app/favicon.ico</icon>
     <rights>All rights reserved 2021, gaoqian &amp; work</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://gaoqian.work/post/hello-gridea/</id>
-        <link href="https://gaoqian.work/post/hello-gridea/">
+        <id>https://hugo-umber-six.vercel.app/post/hello-gridea/</id>
+        <link href="https://hugo-umber-six.vercel.app/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
