@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gaoqian.work</id>
     <title>gaoqian &amp; work</title>
-    <updated>2021-01-14T13:19:10.079Z</updated>
+    <updated>2021-01-14T13:22:27.525Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://gaoqian.work"/>
     <link rel="self" href="https://gaoqian.work/atom.xml"/>
@@ -11,7 +11,18 @@
     <icon>https://gaoqian.work/favicon.ico</icon>
     <rights>All rights reserved 2021, gaoqian &amp; work</rights>
     <entry>
-        <title type="html"><![CDATA[2021新年日常-立flag 测]]></title>
+        <title type="html"><![CDATA[今天规划了副业，公司产品代购]]></title>
+        <id>https://gaoqian.work/post/jin-tian-gui-hua-liao-fu-ye-gong-si-chan-pin-dai-gou/</id>
+        <link href="https://gaoqian.work/post/jin-tian-gui-hua-liao-fu-ye-gong-si-chan-pin-dai-gou/">
+        </link>
+        <updated>2021-01-14T13:19:54.000Z</updated>
+        <content type="html"><![CDATA[<p>每单可以赚100-200元，不过有个疑难问题要解决<br>
+1.资金周转问题，平台是闲鱼，资金无法周转<br>
+2.风险，如果对方货到退款或者耍赖皮，扯皮很难搞，损失惨重</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021新年日常-立flag ]]></title>
         <id>https://gaoqian.work/post/2021-xin-nian-ri-chang-li-flag/</id>
         <link href="https://gaoqian.work/post/2021-xin-nian-ri-chang-li-flag/">
         </link>
