@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gaoqian.work</id>
     <title>gaoqian &amp; work</title>
-    <updated>2021-01-14T13:48:07.594Z</updated>
+    <updated>2021-01-20T12:54:28.958Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://gaoqian.work"/>
     <link rel="self" href="https://gaoqian.work/atom.xml"/>
@@ -10,6 +10,17 @@
     <logo>https://gaoqian.work/images/avatar.png</logo>
     <icon>https://gaoqian.work/favicon.ico</icon>
     <rights>All rights reserved 2021, gaoqian &amp; work</rights>
+    <entry>
+        <title type="html"><![CDATA[关于微信十年的产品思考]]></title>
+        <id>https://gaoqian.work/post/guan-yu-wei-xin-shi-nian-de-chan-pin-si-kao/</id>
+        <link href="https://gaoqian.work/post/guan-yu-wei-xin-shi-nian-de-chan-pin-si-kao/">
+        </link>
+        <updated>2021-01-20T12:45:27.000Z</updated>
+        <content type="html"><![CDATA[<p>龙哥很克制，通篇没有吹嘘微信功能如何，几乎都是在说人与信息，人与连接<br>
+说到视频号，不提短视频，说重点是在“号”，这点我觉得有点小虚，本身公众号也可以表达，也可以嵌入视频，只不过门槛高，需要一些kol创造者，视频号门槛低，人人都能玩，当然更多的是对抖音的反击，如果没有抖音的高速增长和活跃，视频号也没那么快出来吧<br>
+[随笔待续]</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[今天规划了副业，公司产品代购]]></title>
         <id>https://gaoqian.work/post/jin-tian-gui-hua-liao-fu-ye-gong-si-chan-pin-dai-gou/</id>
